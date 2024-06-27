@@ -53,6 +53,17 @@ To execute the test suite:
 
 This command will run all available tests in the project.
 
+
+## 🌐 Deployment
+
+### 📢 Deployment URL
+
+The AutoComplete-e6Data project has been successfully deployed and is accessible at the following URL:
+
+[https://autocomplete-react-e6data.vercel.app/](https://autocomplete-react-e6data.vercel.app/)
+
+Visitors to this URL can interact with the live version of the project, experiencing firsthand the autocomplete functionality, card creation capabilities, and the user-friendly interface designed to enhance user interaction.
+
 ## 📬 Submission Notes
 
 This repository contains the assessment code for the AutoComplete-e6Data project. It is intended for submission to an interviewer as part of a coding assessment process.
